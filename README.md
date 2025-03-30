@@ -33,4 +33,4 @@ To use the Restaurant Chatbot, follow these steps:
 
 ## Contributing
 
-Feel free to explore and modify the code according to your needs. If you encounter any issues or have suggestions, please create an issue on the repository.
+Feel free to explore and modify the code according to your needs. If you encounter any issues or have suggestions, please create an issue on the repository...
